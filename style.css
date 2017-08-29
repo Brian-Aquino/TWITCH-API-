@@ -1,0 +1,71 @@
+body{
+  background-image:url('https://www.twitch.tv/p/assets/uploads/combologo_474x356.png');
+}
+#border {
+    background-color: #000000;
+    color: white;
+    padding: 50px;
+    width: 35%;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 0px;
+    font-size: 1.5em;
+    padding-bottom: 2%;
+    } 
+  a{
+  color:white;
+}
+/* .spacer {
+    padding: 1%;
+  }
+ */
+/* * {
+  box-sizing: border-box;
+} */
+
+ #myInput {
+ background-position: 10px 10px; 
+  background-repeat: no-repeat;
+  width: 100%;
+  font-size: 16px;
+  padding: 12px 20px 12px 40px;
+  border: 1px solid red;
+  margin-bottom: 12px;
+  
+}
+
+#myTable {
+  border-collapse: collapse;
+  width: 100%;
+  border: 1px solid #ddd;
+  font-size: 18px;
+  background-color:black;
+  
+}
+
+#myTable th, #myTable td {
+  text-align: left;
+  padding: 12px;
+  color:red;
+}
+
+#myTable tr {
+  border-bottom: 1px solid #ddd;
+}
+#channel{
+  color:red;
+}
+#font, #fcc, .header, #channel, #status, #game {
+  font-family: 'Saira Condensed', sans-serif;
+}
+.intro{
+  color:green;
+}
+
+.online {
+  color:green;
+}
+/* #imgs{
+  height:300px;
+  width:150px;
+} */
